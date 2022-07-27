@@ -16,7 +16,11 @@
   
 </div>
 </div>
+<img align="center" alt="Rafa-Js" height="40" width="40" src="https://user-images.githubusercontent.com/84590776/179285906-d230a2fc-9290-40a3-b864-5a802fbf8be5.svg"/>
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+
+
 
