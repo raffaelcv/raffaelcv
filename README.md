@@ -2,16 +2,13 @@
 
 - 🔭 Trabalho com Desenvolvimento MAINFRAME.
 - 🌱 Estudo Analise e Desenvolvimento de Sistemas.
-<div> 
-  <a href="https://instagram.com/raffael.viana91"</a>
-  
-    <a href="https://www.linkedin.com/in/rafael-viana-361731218"</a> 
- 
-</div>
 
-<div align="center">
-  <a href="https://github.com/raffaelcv" <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rafael-viana-361731218" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rafael-viana-361731218?trk=profile-badge">Rafael Viana</a></div>
-              >
+<div>
+  <a href="https://www.instagram.com/raffael.viana91/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank_"></a>
+  <a href="https://www.linkedin.com/in/rafael-viana-361731218/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank_"></a>
+</div>
+<div>
+  <a href="https://github.com/raffaelcv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raffaelcv&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaelcv&theme=highcontrast)
